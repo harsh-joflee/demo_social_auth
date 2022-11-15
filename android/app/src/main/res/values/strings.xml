@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FACEBOOK IMPLEMENT -->
+<resources>
+    <string name="app_name">DemoSocialAuthApp</string>
+    <string name="facebook_app_id">867915184645609</string>
+    <string name="fb_login_protocol_scheme">fb867915184645609</string>
+    <string name="facebook_client_token">38d4d6aec7d232214fca75ff90aa50eb</string>
+</resources>
+
+<!-- APP SECRET :- b5d57fc199ea7692be9827f90a6bfa8a -->
